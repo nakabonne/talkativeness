@@ -3,7 +3,7 @@ A package that outputs frequently used logs
 
 # Usage
 
-```go:example
+```go
 import "github.com/ryonakao/talkativeness"
 
 func handler(w http.ResponseWriter, req *http.Request) {
