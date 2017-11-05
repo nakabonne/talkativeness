@@ -36,3 +36,7 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (
 ```
 $ go get github.com/ryonakao/talkativeness
 ```
+
+# License
+
+`talkativeness` source code is available under the MIT [License](https://github.com/ryonakao/talkativeness/blob/master/LICENSE).
