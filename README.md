@@ -34,7 +34,7 @@ User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (
 # Installation
 
 ```
-$ go get github.com/ryonakao/talkativeness
+$ go get -u github.com/nakabonne/talkativeness
 ```
 
 # License
